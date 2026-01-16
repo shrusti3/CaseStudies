@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "CommonJS",
+    "experimentalDecorators": true,    /* Required for @Service */
+    "emitDecoratorMetadata": true,     /* Required for TypeDI to see types */
+    "outDir": "./dist",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true
+  }
+}
